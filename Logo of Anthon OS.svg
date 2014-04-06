@@ -14,7 +14,7 @@
    id="svg2"
    height="500"
    width="500"
-   sodipodi:docname="Logo of AnthonOS.svg">
+   sodipodi:docname="Logo of Anthon OS.svg">
   <title
      id="title5275">Logo of Anthon GNU/Linux</title>
   <defs
@@ -27,15 +27,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.018"
-     inkscape:cx="250"
+     inkscape:cx="-72.200392"
      inkscape:cy="250"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1321"
+     inkscape:window-height="743"
+     inkscape:window-x="0"
+     inkscape:window-y="-2"
      inkscape:window-maximized="1"
      width="500px"
      inkscape:snap-bbox="false" />
@@ -49,8 +49,8 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Logo of Anthon GNU/Linux</dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
-        <dc:date></dc:date>
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:date />
         <dc:creator>
           <cc:Agent>
             <dc:title>Junde Yi</dc:title>
@@ -58,24 +58,23 @@
         </dc:creator>
         <dc:publisher>
           <cc:Agent>
-            <dc:title>Anthon Open Source Community - Junde Studio</dc:title>
+            <dc:title>Anthon Open Source Community </dc:title>
           </cc:Agent>
         </dc:publisher>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Jeff Bai, Tom Yan, Bill Lin, Junde Yi</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
       </cc:License>
     </rdf:RDF>
   </metadata>
