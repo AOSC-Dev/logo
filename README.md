@@ -1,7 +1,7 @@
 LOGO
 ====
 
-Logos of AOSC Projects in new theme -- "Circle".
+Logos of AOSC Projects in new theme -- "Circle". Version for printing.
 
 Details
 =======

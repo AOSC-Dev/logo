@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Logo of Anthon OS2 Project.svg">
+   sodipodi:docname="Logo of Anthon OS2 Project.svg"
+   inkscape:export-filename="/home/live/a.png"
+   inkscape:export-xdpi="92.647049"
+   inkscape:export-ydpi="92.647049">
   <title
      id="title4445">Logo of Anthon OS2 Project</title>
   <defs
@@ -26,14 +29,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.018"
-     inkscape:cx="114.30072"
-     inkscape:cy="273.7424"
+     inkscape:zoom="1.144"
+     inkscape:cx="250"
+     inkscape:cy="250"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1321"
-     inkscape:window-height="743"
+     inkscape:window-width="1320"
+     inkscape:window-height="745"
      inkscape:window-x="0"
      inkscape:window-y="-2"
      inkscape:window-maximized="1" />
@@ -98,7 +101,7 @@
      id="layer1"
      transform="translate(0,-552.36218)">
     <path
-       style="fill:#0050ff;fill-opacity:1;stroke:none"
+       style="fill:#587ce7;fill-opacity:1;stroke:none"
        d="m 250,623.31099 c -2.9259,0 -5.82425,0.0629 -8.71573,0.20199 l 6.04626,91.60191 c 0.71085,-0.0168 1.42977,-0.0226 2.1447,-0.0226 48.6757,0 88.13842,38.84432 88.13842,86.75357 0,13.58959 -3.16991,26.4599 -8.82982,37.91116 l 81.47612,42.19838 c 11.908,-23.9773 18.61792,-50.99927 18.61792,-79.59331 0,-98.88903 -80.08635,-179.05124 -178.87787,-179.05124 z m -13.75808,0.51626 c -0.16058,0.0121 -0.31868,0.0323 -0.47914,0.0448 l 0.0227,0.26934 0.5704,-0.31422 c -0.0377,0.003 -0.0765,-0.003 -0.11405,0 z M 92.523589,717.35947 c -13.654905,25.29045 -21.401456,54.23715 -21.401456,85.00278 0,98.88902 80.086357,179.05123 178.877867,179.05123 5.01064,0 9.96969,-0.20161 14.87607,-0.60613 l -6.11469,-92.67918 c -3.05145,0.3145 -6.15014,0.47137 -9.28615,0.47137 -48.67569,0 -88.13842,-38.84433 -88.13842,-86.75355 0,-15.59183 4.18263,-30.2266 11.4993,-42.87174 L 92.523589,717.35947 z"
        id="path2996"
        inkscape:connector-curvature="0" />
