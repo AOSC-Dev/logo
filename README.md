@@ -1,4 +1,4 @@
-# k5style
+# Logos In KDE 5 Style
 
 Logos in KDE 5 style:
 
@@ -7,7 +7,7 @@ Logos in KDE 5 style:
 
 ## License
 
-Some original logos are using GPL. I do not know what they're thinking...
+Some original logos are using GPL. I DO NOT know what their author is thinking...
 
 Anyway, we will publish the GPL logos under GPL and others under CC-BY-SA 3.0 International.
 
