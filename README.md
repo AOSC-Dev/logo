@@ -1,15 +1,12 @@
-LOGO
-====
+# LOGO
 
-Logos of AOSC Projects in new theme -- "Circle". Version for printing.
+Logos of AOSC projects in new theme -- "Circle". 
 
-Details
-=======
+NOTICE: This is the version for printing.
 
-* Format: Scalable Vector Graphics ( SVG )
+## Details
 
-* Size: 500(px) x 500(px) ( You can zoom it as you please )
+  * Format: Scalable Vector Graphics ( SVG )
+  * Size: 500(px) x 500(px)
+  * All the logos are published under [CC-BY-SA 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
 
-* Made by: Inkscape
-
-* All the logos are published under CC0 ( or Public Domain / Copyleft / WTFPL ). You can copy, modify them and even re-release them. These are your rights.
