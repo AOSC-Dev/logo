@@ -13,9 +13,9 @@
    height="500"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="Logo of AOSC SCU.svg"
-   inkscape:export-filename="C:\Users\lmy441900\Desktop\Logo of AOSC SCU.png"
+   inkscape:export-filename="Logo of AOSC SCU.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <title
@@ -60,7 +60,7 @@
           </cc:Agent>
         </dc:publisher>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/publicdomain/">
@@ -86,7 +86,7 @@
        sodipodi:cy="248.47202"
        sodipodi:rx="236.3757"
        sodipodi:ry="236.3757"
-       d="m 489.924,248.47202 a 236.3757,236.3757 0 1 1 -472.751408,0 236.3757,236.3757 0 1 1 472.751408,0 z"
+       d="M 489.924,248.47202 A 236.3757,236.3757 0 0 1 253.54829,484.84772 236.3757,236.3757 0 0 1 17.172592,248.47202 236.3757,236.3757 0 0 1 253.54829,12.096313 236.3757,236.3757 0 0 1 489.924,248.47202 Z"
        transform="matrix(1.025641,0,0,1.025641,-9.8347332,548.03172)" />
     <path
        style="color:#000000;fill:#0070c0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
