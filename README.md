@@ -31,5 +31,6 @@ Usage
 Please refer to the [COPYING](/COPYING) document for details.
 
 ```
-You may use these logos to truthfully refer to and/or link to Anthon Open Source Community (AOSC) and/or its various projects and personnel.
+You may use these logos to truthfully refer to and/or link to Anthon Open
+Source Community (AOSC) and/or its various projects and personnel.
 ```
