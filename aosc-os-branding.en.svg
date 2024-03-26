@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280"
+   height="480"
+   viewBox="0 0 338.66666 127"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="aosc-os-branding.en.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.51843089"
+     inkscape:cx="325.98366"
+     inkscape:cy="103.19601"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       transform="translate(-158.87439,32.775552)">
+      <rect
+         style="fill:#cf0404;fill-opacity:1;stroke-width:1.33542;stroke-linecap:round;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect844-8-5-5"
+         width="24.244947"
+         height="38.514389"
+         x="218.93044"
+         y="-16.248125"
+         transform="matrix(0.98802429,0.15429845,-0.85036973,0.52618564,0,0)"
+         rx="2.8510263" />
+      <rect
+         style="fill:#f4ba29;fill-opacity:1;stroke-width:1.33542;stroke-linecap:round;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect844-3-58-04-3"
+         width="21.551065"
+         height="38.514389"
+         x="193.51776"
+         y="-44.302593"
+         transform="matrix(0.98802429,0.15429845,-0.85036973,0.52618564,0,0)"
+         rx="2.8510263" />
+      <rect
+         style="fill:#0990eb;fill-opacity:1;stroke-width:1.33542;stroke-linecap:round;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect844-3-5-43-8-8"
+         width="10.775533"
+         height="18.454813"
+         x="219.02481"
+         y="-38.335033"
+         transform="matrix(0.98802429,0.15429845,-0.85036973,0.52618564,0,0)"
+         rx="2.8510263" />
+      <rect
+         style="fill:#b4b4b4;fill-opacity:1;stroke-width:1.33542;stroke-linecap:round;paint-order:stroke fill markers;stop-color:#000000"
+         id="rect844-3-6-71-7-8"
+         width="13.469416"
+         height="24.071493"
+         x="176.41884"
+         y="-62.001118"
+         transform="matrix(0.98802429,0.15429845,-0.85036973,0.52618564,0,0)"
+         inkscape:transform-center-x="5.6372972"
+         inkscape:transform-center-y="33.13425"
+         rx="2.8510263"
+         inkscape:export-filename="test3"
+         inkscape:export-xdpi="90.311111"
+         inkscape:export-ydpi="90.311111" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:47.5271px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.316847"
+         x="258.15985"
+         y="48.28175"
+         id="text1321-3-1-3"><tspan
+           sodipodi:role="line"
+           id="tspan1319-8-7-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.5271px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';stroke-width:0.316847"
+           x="258.15985"
+           y="48.28175">AOSC OS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15.2087px;line-height:1.25;font-family:sans-serif;fill:#8e91bf;fill-opacity:0.952941;stroke:none;stroke-width:0.316847"
+         x="319.55856"
+         y="62.825893"
+         id="text1381-09-2-3-4-5-6-0-3"><tspan
+           sodipodi:role="line"
+           id="tspan1379-7-7-7-1-6-1-2-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.2087px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';fill:#6165a6;fill-opacity:0.952941;stroke-width:0.316847"
+           x="319.55856"
+           y="62.825893">Simple. Reliable.</tspan></text>
+    </g>
+  </g>
+</svg>
